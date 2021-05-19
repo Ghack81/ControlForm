@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-language" content="fr-FR" />
+	<title>Vérification de formulaire</title>
+
+	<!-- IMPORT Feuilles de styles -->
+	<link rel="stylesheet" type="text/css" href="feuilleDeStyle.css" media="all"/>
+	<!-- IMPORT Javascript -->
+	<script type="text/javascript" src="jquery-1.2.6.js"></script>
+	<script type="text/javascript" src="jquery.formvalidation.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function(){
+		$("#formulairecontact").formValidation({
+			alias		: "name",
+			required	: "accept",
+			err_list	: true
+		}); 
+               
+	});
+	</script>
+</head>
+<body>
+	<form id="formulairecontact" method="post" action="formulaire.html" >
+		<fieldset>
+        		<legend>Formulaire de contact</legend>
+				<p class="error"></p>
+        		<label for="nom">Nom</label> 
+        		<input required="true" type="text" name="nom" id="nom" value=""/>
+        		<label  for="email">Email</label>
+        		<input type="text" mask="email" required="true" name="email" id="email" value=""/>
+			<label  for="email">Sujet</label>
+        		<select required="true" defval="Séléctionnez votre choix" name="sujet" id="sujet">
+        			<option>Séléctionnez votre choix</option>	
+				<option>Choix 1</option>
+				<option>Choix 2</option>
+				<option>Choix 3</option>
+				<option>Choix 4</option>
+				<option>Choix 5</option>
+			</select>
+        		<label for="message">Message</label>
+        		<textarea rows="10" cols="25" required="true" name="message" id="message"></textarea>  
+        		<button type="submit">Envoyer</button>
+      		</fieldset>
+	</form>
+</body>
+</html>
