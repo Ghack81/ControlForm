@@ -316,7 +316,8 @@ Il est facile et rapide à configurer et à configurer pour son utilisation.
 Il a une structure simple qui rend le cadre plus rapide et plus facile à apprendre.
 Il est très efficace et modulable.
 
-Cet article n'est pas ma réalisation, c'est une source ouverte donc je vais le partage de cet article avec toute la communauté JS.
+Aurelia fournit également un bon système de codage et bien conçu pour créer des SPA sans avoir à utiliser de bibliothèques tierces. Par rapport à Mithril.js, Aurelia dispose d'une excellente CLI pour un développement plus rapide de projets composés de recharges à chaud et de générateurs. Les développeurs à la recherche d'une excellente alternative à React ou Angular peuvent considérer Aurelia comme une excellente option.
+
+Cet article n'est pas ma réalisation, c'est une source ouverte sur le web donc je fais le partage de cet article avec toute la communauté JS.
 
 Excellent lecture !!!!
-Aurelia fournit également un bon système de codage et bien conçu pour créer des SPA sans avoir à utiliser de bibliothèques tierces. Par rapport à Mithril.js, Aurelia dispose d'une excellente CLI pour un développement plus rapide de projets composés de recharges à chaud et de générateurs. Les développeurs à la recherche d'une excellente alternative à React ou Angular peuvent considérer Aurelia comme une excellente option.
