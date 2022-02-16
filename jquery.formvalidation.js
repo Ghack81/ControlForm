@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿(function() {
+=======
+(function() {
+>>>>>>> e717b5c2d6943b645a90eaede743b54d6c05bc8a
 
 	jQuery.fn.formValidation = function(settings, err_msgs) {
 
