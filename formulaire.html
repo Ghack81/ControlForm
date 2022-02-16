@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 	<meta http-equiv="Content-language" content="fr-FR" />
-	<title>Vérification de formulaire</title>
+	<title>Vérification de formulaire avec JS</title>
 
 	<!-- IMPORT Feuilles de styles -->
 	<link rel="stylesheet" type="text/css" href="feuilleDeStyle.css" media="all"/>
@@ -22,6 +22,7 @@
 	</script>
 </head>
 <body>
+<h1>Formulaire de contact</h1></br></br>
 	<form id="formulairecontact" method="post" action="formulaire.html" >
 		<fieldset>
         		<legend>Formulaire de contact</legend>
@@ -33,11 +34,11 @@
 			<label  for="email">Sujet</label>
         		<select required="true" defval="Séléctionnez votre choix" name="sujet" id="sujet">
         			<option>Séléctionnez votre choix</option>	
-				<option>Choix 1</option>
-				<option>Choix 2</option>
-				<option>Choix 3</option>
-				<option>Choix 4</option>
-				<option>Choix 5</option>
+				<option>Audi</option>
+				<option>BMW</option>
+				<option>FIAT</option>
+				<option>Renault</option>
+				<option>VW</option>
 			</select>
         		<label for="message">Message</label>
         		<textarea rows="10" cols="25" required="true" name="message" id="message"></textarea>  
