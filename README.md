@@ -3,6 +3,10 @@
 
 ## C'est un ensemble de projets pour la vérification des formulaires et d'autre type de validation en JS.
 
+Cet article n'est pas ma réalisation, c'est une source ouverte sur le web donc je fais le partage de cet article avec toute la communauté JS.
+
+Excellent lecture !!!!
+
 ### AngularJS
 
 Angular.js est un framework de développement frontal open source populaire principalement utilisé pour développer des applications Web dynamiques à page unique (SPA).
@@ -317,7 +321,3 @@ Il a une structure simple qui rend le cadre plus rapide et plus facile à appren
 Il est très efficace et modulable.
 
 Aurelia fournit également un bon système de codage et bien conçu pour créer des SPA sans avoir à utiliser de bibliothèques tierces. Par rapport à Mithril.js, Aurelia dispose d'une excellente CLI pour un développement plus rapide de projets composés de recharges à chaud et de générateurs. Les développeurs à la recherche d'une excellente alternative à React ou Angular peuvent considérer Aurelia comme une excellente option.
-
-Cet article n'est pas ma réalisation, c'est une source ouverte sur le web donc je fais le partage de cet article avec toute la communauté JS.
-
-Excellent lecture !!!!
