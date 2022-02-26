@@ -1,9 +1,9 @@
-# ControlForm with JavaScript
+# Control Form with JavaScript
 
 
 ## C'est un ensemble de projets pour la vérification des formulaires et d'autre type de validation en JS.
 
-Cet article n'est pas ma réalisation, c'est une source ouverte sur le web donc je fais le partage de cet article avec toute la communauté JS.
+Source https://joshowens.dev/ ouverte sur le web donc je fais le partage de cet article avec toute la communauté JS.
 
 Excellent lecture !!!!
 
