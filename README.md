@@ -168,6 +168,7 @@ Il se compose de plus de 100 extensions. Il aide à organiser les codes et agit 
 Backbone est également considéré comme le meilleur «modèle» et «contrôleur» pour ReactJS pour compléter le modèle MVC. Alors qu'Angular propose des modèles via des attributs HTML dynamiques ajoutés aux documents, Backbone s'appuie sur des modèles Underscore, qui lui donnent un format similaire à Ember.
 
 ### Mithril.js
+Rendez-vous sur :
 
 Mithril, une bibliothèque JS moins connue, est le framework JavaScript moderne utilisé pour créer des applications à page unique côté client.
 
@@ -197,6 +198,7 @@ Par rapport à Angular, la petite taille de la base de code de Mithril permet un
 Même si Mithril n'est pas très reconnu, il est souvent en concurrence directe avec d'autres frameworks JavaScript.
 
 ### Polymer.js
+Rendez-vous sur :
 
 Polymère est une autre bibliothèque JavaScript open source pour la création d'applications Web à l'aide de composants Web. Cette bibliothèque est développée par des développeurs Google et a des contributeurs sur GitHub. Contrairement à tout autre framework JavaScript, Polymer est conçu pour tirer parti des fonctionnalités présentes sur la plate-forme Web pour permettre aux développeurs de créer des composants. C'était la toute première bibliothèque à permettre des applications de construction interactives en composant des composants.
 
@@ -219,6 +221,7 @@ Les éléments polymères sont constitués de conceptions et de thèmes, ce qui 
 Cela dit, Google lancera bientôt les produits de nouvelle génération, qui incluent LitElement, une classe de base d'élément personnalisée ultra-légère dotée d'une API expressive et simple. Avec l'équipe Chrome soutenue par Polymer, nous pouvons nous attendre à ce que les composants Web soient l'avenir de la création d'applications Web progressives (PWA).
 
 ### Node.js
+Rendez-vous sur :
 
 Node.js est l'un des environnements d'exécution multiplateformes open source les plus téléchargés pour l'exécution de code JavaScript en dehors d'un navigateur. Il est utilisé pour créer des services back-end ou des API et développer des applications côté serveur et réseau. Il s'agit d'une plate-forme basée sur le moteur JavaScript de Google Chrome (moteur V8).
 
@@ -247,6 +250,7 @@ Node est très rapide puisque le moteur V8 de Google l'alimente.
 Il est désormais indépendant du runtime JS et permet aux développeurs d'écrire des add-ons C / C ++ sans avoir une compréhension approfondie du fonctionnement de V8 en raison de sa meilleure abstraction. La puissance de Node.js est difficile à ignorer car il a été utilisé pour écrire de nombreux autres scripts Java, Meteor JS est l'un des meilleurs.
 
 ### Svelte
+Rendez-vous sur :
 
 Svelte est un nouveau membre du Cadres JavaScript (FrontEnd) ' famille. C'est différent des frameworks traditionnels et bien connus dont nous avons discuté dans cet article.
 
@@ -278,6 +282,7 @@ Moins de passe-partout, vous pouvez rapidement commencer à travailler avec Svel
 Svelte est idéal pour les petits projets. Et si vous avez besoin de créer une application dans un court laps de temps, optez pour Svelte. C'est un cadre convivial pour les débutants.
 
 ### Meteor.js
+Rendez-vous sur :
 
 MeteorJS est un framework JavaScript open source, full-stack et gratuit qui est écrit à l'aide de Node.js. Il permet un prototypage rapide et crée des codes multiplateformes. Il développe rapidement des applications plus petites et réactives sur la plate-forme Node.js. Meteor utilise un JavaScript frontal qui s'exécute sur le navigateur et le back-end sur le serveur Meteor dans Node.js.
 
@@ -303,6 +308,7 @@ Très évolutif et convivial pour les débutants.
 En fait, si nous regardons de près, Meteor est une combinaison de NodeJS, Blaze, Angular, React, Cordova et MongoDB et est donc appelé un «package One for all».
 
 ### Aurelia
+Rendez-vous sur :
 
 Aurelia est une collection de modules JavaScript modernes open source et s'appelle le « framework d'interface utilisateur de nouvelle génération » écrit en ECMAScript. Parrainé par Blue Spire, il sert de plate-forme robuste pour créer des navigateurs, des ordinateurs de bureau et diverses applications mobiles. Aurelia a gagné beaucoup de reconnaissance depuis son lancement. Des entreprises comme Freska, Ordami et BTEK Software utilisent Aurelia dans leurs projets.
 
@@ -326,4 +332,6 @@ Il est facile et rapide à configurer et à configurer pour son utilisation.
 Il a une structure simple qui rend le cadre plus rapide et plus facile à apprendre.
 Il est très efficace et modulable.
 
-Aurelia fournit également un bon système de codage et bien conçu pour créer des SPA sans avoir à utiliser de bibliothèques tierces. Par rapport à Mithril.js, Aurelia dispose d'une excellente CLI pour un développement plus rapide de projets composés de recharges à chaud et de générateurs. Les développeurs à la recherche d'une excellente alternative à React ou Angular peuvent considérer Aurelia comme une excellente option.
+Aurelia fournit également un bon système de codage et bien conçu pour créer des SPA sans avoir à utiliser de bibliothèques tierces. 
+Par rapport à Mithril.js, Aurelia dispose d'une excellente CLI pour un développement plus rapide de projets composés de recharges à chaud et de générateurs. 
+Les développeurs à la recherche d'une excellente alternative à React ou Angular peuvent considérer Aurelia comme une excellente option.
