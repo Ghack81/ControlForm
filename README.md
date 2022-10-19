@@ -1,4 +1,4 @@
-# ControlForm with JavaScript
+# Control Form with JavaScript
 
 
 ## C'est un ensemble de projets pour la vérification des formulaires et d'autre type de validation en JS.
@@ -51,6 +51,7 @@ Sencha Test aide les ingénieurs et les développeurs à améliorer la qualité 
 Le package de données est indépendant du protocole et peut consommer les données des sources principales. Il permet la collecte de données côté client à l'aide de modèles fonctionnels et inclut des capacités de gestion pour minimiser les allers-retours et permettre les opérations de serveur côté client.
 
 ### React
+Rendez-vous sur [React](https://fr.reactjs.org/) !
 
 Réagir est une bibliothèque utilisée pour développer des applications d'interface utilisateur. Il a été publié en 2013 et a été le framework JS à la croissance la plus rapide dans le monde d'aujourd'hui.
 
@@ -76,7 +77,9 @@ React peut être utilisé côté serveur et côté client, permettant ainsi de r
 React est optimisé pour le référencement et rapide pour le développement front-end. Apprenez le guide complet ici.
 
 ### Ember.js
-charbon ardent est également un framework open-source qui permet aux développeurs de créer une seule page et de grandes applications Web. Ember a été un cadre hautement avisé qui a été conçu pour être très flexible.
+Rendez-vous sur [Ember](https://emberjs.com/) !
+
+Ember JS est également un framework open-source qui permet aux développeurs de créer une seule page et de grandes applications Web. Ember a été un cadre hautement avisé qui a été conçu pour être très flexible.
 
 Alors qu'Angular et React sont flexibles et moins opiniâtres, Ember fait de nombreuses hypothèses sur l'application et oblige un développeur à se conformer à ses attentes.
 
@@ -107,6 +110,8 @@ Minimise le DOM
 Une grande chose que les utilisateurs d'Ember préfèrent aux autres frameworks est son API conviviale, facile à comprendre et à utiliser. Il permet d'exploiter des fonctionnalités complexes d'une manière facile à comprendre. Avec la convention sur la configuration, tout est prêt et configuré pour qu'un développeur démarre un projet immédiatement.
 
 ### Vue.js
+Rendez-vous sur [Vue](https://vuejs.org/) !
+
 Vue.js a été publié en 2014 et est le cadre à la croissance la plus rapide adopté par les développeurs. C'est un framework JS progressif léger qui tire beaucoup de ses concepts de ReactJS et AngularJS.
 
 Il a un style de modèle similaire à Angular et des accessoires basés sur des composants, tout comme ReactJS. Vue fournit une solution simple et rapide pour le développement d'applications, d'interfaces utilisateur et d'interfaces Web interactives. Il peut alimenter des applications Web avancées d'une seule page.
@@ -134,6 +139,7 @@ Vue s'avère être un cadre de développement frontal plus flexible et modulaire
 Obtenez le nec plus ultra Cours de développement VueJS dès aujourd’hui.
 
 ### Backbone.js
+Rendez-vous sur [Backbone](https://backbonejs.org/) !
 
 Backbone.js est une bibliothèque JavaScript légère initialement publiée en 2010 et est depuis un cadre flexible pour le code structuré. Il permet aux développeurs de développer des applications Web d'une seule page et des applications côté client qui s'exécutent dans un navigateur Web.
 
