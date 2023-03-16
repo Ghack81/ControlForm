@@ -1,4 +1,4 @@
-# Control Form with JavaScript
+# Control Form with JavaScript and many documentation on JS Framework.
 
 
 ## C'est un ensemble de projets pour la vérification des formulaires et d'autre type de validation en JS.
