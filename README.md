@@ -13,7 +13,7 @@ Angular.js est un framework de développement frontal open source populaire prin
 
 AngularJS transfère tout le contenu du serveur vers le navigateur et charge toutes les pages Web simultanément. Une fois le contenu chargé, cliquer sur n'importe quel lien de la page ne recharge pas tout le contenu de la page ; au lieu de cela, il met simplement à jour les sections de la page.
 
-### Architecture JS angulaire
+### Architecture JS angulaire.
 
 De grandes organisations comme PayPal, Freelancer, LinkedIn, Lego, Hopscotch et plusieurs autres alimentent leurs interfaces utilisateur par AngularJS.
 
